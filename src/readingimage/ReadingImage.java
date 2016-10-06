@@ -1,5 +1,5 @@
 package readingimage;
-
+//importing java packages
 import java.io.*;
 import com.asprise.ocr.Ocr;
 import java.util.Scanner;
